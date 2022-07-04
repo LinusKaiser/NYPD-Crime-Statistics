@@ -27,3 +27,10 @@ map has to be clicked individually to derive the previously mentioned data from 
 - data exploration
 - data visualization
 - machine-learning application
+
+### 2022 Weekly Crimes in NYC
+-----
+
+![link](/Outputs/ezgif.com-gif-maker.gif)
+
+-----
